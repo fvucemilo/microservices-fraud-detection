@@ -7,14 +7,16 @@ spring:
     password: postgres
     url: jdbc:postgresql://localhost:5432/customer
     username: postgres
-    jpa:
+  jpa:
     hibernate:
       ddl-auto: create-drop
-      properties:
-        hibernate:
-          dialect: org.hibernate.dialect.PostgreSQLDialect
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
         format_sql: true
     show-sql: true
+  zipkin:
+    base-url: http://localhost:9411
 eureka:
   client:
     service-url:

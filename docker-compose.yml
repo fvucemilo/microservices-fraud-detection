@@ -33,6 +33,8 @@ services:
 networks:
   postgres:
     driver: bridge
+  spring:
+    driver: bridge
 
 volumes:
   postgres:

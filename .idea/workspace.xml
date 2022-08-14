@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5d4a841-6ebd-41e5-9024-c73d2a283e2e" name="Changes" comment="Add microservices entities, data access, logic and endpoints">
-      <change afterPath="$PROJECT_DIR$/apigw/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apigw/src/main/java/com/fvucemilo/apigw/ApiGWApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apigw/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apigw/src/main/resources/banner.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +175,7 @@
       <workItem from="1660160257200" duration="3645000" />
       <workItem from="1660163913819" duration="2700000" />
       <workItem from="1660252300502" duration="6405000" />
-      <workItem from="1660408104829" duration="15487000" />
+      <workItem from="1660408104829" duration="16174000" />
     </task>
     <task id="LOCAL−00001" summary="Add microservices entities, data access, logic and endpoints">
       <created>1660325071983</created>
